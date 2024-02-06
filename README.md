@@ -1,4 +1,5 @@
 #React Weather Journal App#
+
 Overview
 This React Weather Journal App is a user-friendly and intuitive application that integrates the OpenWeatherMap API to provide real-time weather information. It allows users to track and record their daily weather observations effortlessly. The app is built using React.js, combining modern front-end technologies to deliver a responsive and engaging user experience.
 
