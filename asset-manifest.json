@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/V0KEN/weather-journal-app-2.0/static/css/main.20e8b0be.css",
-    "main.js": "/V0KEN/weather-journal-app-2.0/static/js/main.d13ec706.js",
-    "static/media/valley.jpeg": "/V0KEN/weather-journal-app-2.0/static/media/valley.0ae476defd35e8f322a3.jpeg",
-    "index.html": "/V0KEN/weather-journal-app-2.0/index.html",
-    "main.20e8b0be.css.map": "/V0KEN/weather-journal-app-2.0/static/css/main.20e8b0be.css.map",
-    "main.d13ec706.js.map": "/V0KEN/weather-journal-app-2.0/static/js/main.d13ec706.js.map"
+    "main.css": "/weather-journal-app-2.0/static/css/main.4d44e00d.css",
+    "main.js": "/weather-journal-app-2.0/static/js/main.d13ec706.js",
+    "static/media/valley.jpeg": "/weather-journal-app-2.0/static/media/valley.0ae476defd35e8f322a3.jpeg",
+    "index.html": "/weather-journal-app-2.0/index.html",
+    "main.4d44e00d.css.map": "/weather-journal-app-2.0/static/css/main.4d44e00d.css.map",
+    "main.d13ec706.js.map": "/weather-journal-app-2.0/static/js/main.d13ec706.js.map"
   },
   "entrypoints": [
-    "static/css/main.20e8b0be.css",
+    "static/css/main.4d44e00d.css",
     "static/js/main.d13ec706.js"
   ]
 }
